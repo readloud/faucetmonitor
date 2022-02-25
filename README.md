@@ -1,5 +1,4 @@
-# faucetmonitor
-## [Faucet Monitor](https://readloud.github.io/faucetmonitor/) - Claim Free Crypto
+# [Faucet Monitor](https://readloud.github.io/faucetmonitor/) - Claim Free Crypto
 List of all faucetpay faucets. Sort by different criteria and find the most paying ones.
 
 Basically it displays all faucets, ad networks, PTC, games and other companies that are using faucetpay microwallet, in a way that allows you to sort and filter them. Why only faucetpay? It is the biggest micropayments wallet and the only one (that I know of) providing needed data by API. If there are other wallets providing this kind of transparency then I can add them in the future too.

@@ -5,7 +5,7 @@ idna==2.10
 pyaes==1.6.1
 pyasn1==0.4.8
 pyfiglet==0.8.post1
-requests==2.24.0
+requests==2.31.0
 rsa==4.7
 soupsieve==2.0.1
 Telethon==1.16.2

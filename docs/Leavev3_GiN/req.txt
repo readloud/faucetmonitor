@@ -1,5 +1,0 @@
-telethon
-async_generator
-colorama
-requests
-asyncio

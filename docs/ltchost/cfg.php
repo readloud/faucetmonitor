@@ -1,4 +1,0 @@
-<?
-
-$cookie_ltc = "xxxxx";
-

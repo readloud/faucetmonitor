@@ -1,9 +1,0 @@
-rsa
-telethon
-pyaes
-requests
-asyncio
-async_generator
-colorama
-bs4
-faker

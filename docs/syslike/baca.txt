@@ -1,2 +1,0 @@
-https://youtu.be/V5Mh2Jmm-V0
-https://syslike.org/

@@ -1,2 +1,0 @@
-# multibot
-Multibot

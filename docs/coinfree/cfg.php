@@ -1,3 +1,0 @@
-<?php
-$cookie = "xxxxxx";
-?>

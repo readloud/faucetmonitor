@@ -11,8 +11,8 @@ List of all faucetpay faucets. Sort by different criteria and find the most payi
 
 ## TOOLS
 
-[adDOGE | AutoClaim-DOGE](B012ED/ad-doge/#README.md)
+[adDOGE | AutoClaim-DOGE](bot/ad-doge/#README.md)
 
-[ExpressCrypto | AutoClaim-Doge](B012ED/express-doge/#README.md)
+[ExpressCrypto | AutoClaim-Doge](bot/express-doge/#README.md)
 
-[FaucetPay | AutoClaim-Doge](B012ED/faucet-doge/#README.md)
+[FaucetPay | AutoClaim-Doge](bot/faucet-doge/#README.md)

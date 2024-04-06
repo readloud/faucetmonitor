@@ -7,7 +7,6 @@ List of all faucetpay faucets. Sort by different criteria and find the most payi
 
  For your convenience all values are represented in USD, so that it is easier to compare companies that are using different coins (e.g. BTC and LTC). Of course if you are interested only in companies paying by a specific crypto, then you can filter it, e.g. [dogecoin](https://faucetmonitor.com/dogecoin)
 
-[Let me know](https://faucetmonitor.com) what you think.
 
 ## TOOLS
 
@@ -17,4 +16,6 @@ List of all faucetpay faucets. Sort by different criteria and find the most payi
 
 [FaucetPay | AutoClaim-Doge](bot/faucet-doge/#README.md)
 
-[Siren](bot/siren/#README.md)
+[Siren | cryptocurrency exchange](bot/siren/#README.md)
+
+[Let me know](https://readloud.github.io/faucetmonitor) what you think.

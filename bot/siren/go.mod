@@ -37,7 +37,7 @@ require (
 	github.com/syndtr/goleveldb v0.0.0-20181128100959-b001fa50d6b2 // indirect
 	github.com/tyler-smith/go-bip39 v1.0.0 // indirect
 	github.com/urfave/negroni v1.0.0
-	golang.org/x/net v0.0.0-20181217023233-e147a9138326
+	golang.org/x/net v0.23.0
 	google.golang.org/grpc v1.17.0
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
 )

@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/auth0/go-jwt-middleware v0.0.0-20170425171159-5493cabe49f7
-	github.com/btcsuite/btcd v0.24.0 // indirect
+	github.com/btcsuite/btcd v0.24.2 // indirect
 	github.com/codegangsta/negroni v1.0.0 // indirect
 	github.com/confluentinc/confluent-kafka-go v0.11.6
 	github.com/davecgh/go-spew v1.1.1
@@ -24,6 +24,6 @@ require (
 	github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24
 	github.com/spf13/viper v1.4.0
 	github.com/urfave/negroni v1.0.0
-	golang.org/x/net v0.18.0
+	golang.org/x/net v0.23.0
 	google.golang.org/grpc v1.31.0
 )

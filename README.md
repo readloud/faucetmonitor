@@ -17,4 +17,4 @@ List of all faucetpay faucets. Sort by different criteria and find the most payi
 
 * [Siren | cryptocurrency exchange](bot/siren/#README.md)
 
-* [Let me know](https://readloud.github.io/faucetmonitor) what you think.
+* [Let me know](bot/#README.md) what you think.

@@ -1,0 +1,1 @@
+x=`<ul><li><a href="https://yescoiner.com/ads?place=3"  target="_blank" class=yadbuy>Advertise here!</a></li></ul>`;document.getElementById('yads').innerHTML=x;
